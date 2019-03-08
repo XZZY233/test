@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 add some texts
 add some local texts
+=======
+add some txts
+add some remote tests
+>>>>>>> 7f89e534cfbddd24403977414ce8eaa71eb0dfa2
